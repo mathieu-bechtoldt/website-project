@@ -1,0 +1,27 @@
+* {font-family: "Times New Roman";}
+
+body {
+    background-image: url(images/schneethal.jpg);
+    background-size: cover;
+
+}
+h1 {
+    text-align : center;
+    background-color: #FCE000;
+}
+
+h3 {color: red;
+    text-align: center;
+
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    border : 5px solid #FCE000
+
+}
+
+section {
+    text-align: center;
+}
